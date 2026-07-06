@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" alt="Banner">
+</p>
+
 # Hi, I'm Shooq Aladwani 👋
 
 Computer Science graduate from Umm Al-Qura University with interests in data analytics, web development, networking, machine learning, and software development.
