@@ -41,72 +41,22 @@ Passionate about Machine Learning, Data Analytics, Networking, Web Development, 
 ## 🏅 Professional Certificates
 
 ### 📊 Data Analytics
-
-<a href="Data%20Analytics/PowerBI-Data-Analysis.pdf">
-<img src="Data%20Analytics/PowerBI-Data-Analysis.png" width="300">
-</a>
-
----
+- Power BI Data Analysis
 
 ### 👑 Leadership
-
-<a href="Leadership/Leadership-Certificate.pdf">
-<img src="Leadership/Leadership-Certificate.png" width="300">
-</a>
-
----
+- Leadership Certificate
 
 ### 💻 Tuwaiq Academy
-
-#### HTML Fundamentals
-
-<a href="Tuwaiq%20Academy/HTML-Fundamentals.pdf">
-<img src="Tuwaiq%20Academy/HTML-Fundamentals.png" width="220">
-</a>
-
-#### CSS Fundamentals
-
-<a href="Tuwaiq%20Academy/CSS-Fundamentals.pdf">
-<img src="Tuwaiq%20Academy/CSS-Fundamentals.png" width="220">
-</a>
-
-#### JavaScript 101
-
-<a href="Tuwaiq%20Academy/JavaScript-101.pdf">
-<img src="Tuwaiq%20Academy/JavaScript-101.png" width="220">
-</a>
-
-#### JavaScript 102
-
-<a href="Tuwaiq%20Academy/JavaScript-102.pdf">
-<img src="Tuwaiq%20Academy/JavaScript-102.png" width="220">
-</a>
-
-#### JavaScript 103
-
-<a href="Tuwaiq%20Academy/JavaScript-103.pdf">
-<img src="Tuwaiq%20Academy/JavaScript-103.png" width="220">
-</a>
-
-#### PHP Basics 101
-
-<a href="Tuwaiq%20Academy/PHP-Basics-101.pdf">
-<img src="Tuwaiq%20Academy/PHP-Basics-101.png" width="220">
-</a>
-
-#### PHP Functions 102
-
-<a href="Tuwaiq%20Academy/PHP-Functions-102.pdf">
-<img src="Tuwaiq%20Academy/PHP-Functions-102.png" width="220">
-</a>
-
----
+- HTML Fundamentals
+- CSS Fundamentals
+- JavaScript 101
+- JavaScript 102
+- JavaScript 103
+- PHP Basics 101
+- PHP Functions 102
 
 ### 💡 Entrepreneurship
-
-<a href="Entrepreneurship/Introduction-to-Entrepreneurship.pdf">
-<img src="Entrepreneurship/Introduction-to-Entrepreneurship.png" width="300">
-</a>
+- Introduction to Entrepreneurship
 
 ---
 
