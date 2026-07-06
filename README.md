@@ -1,16 +1,128 @@
-## Hi there 👋
+# Hi, I'm Shooq Aladwani 👋
 
-<!--
-**Shooqaladwani/Shooqaladwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate from Umm Al-Qura University with interests in data analytics, web development, networking, machine learning, and software development.
 
-Here are some ideas to get you started:
+I enjoy building practical projects, organizing technical work, and continuously improving my skills through real projects and professional training.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 Technical Skills
+
+- Power BI
+- Python
+- Java
+- C++
+- PHP
+- HTML & CSS
+- JavaScript
+- MySQL
+- Machine Learning
+- Cisco Packet Tracer
+- Git & GitHub
+
+---
+
+## 🌟 Featured Projects
+
+### 🩺 VYTAL – Athlete Health Monitoring
+Graduation project focused on monitoring athlete health indicators, analyzing vital signs, and supporting medical decision-making through dashboards and AI-generated reports.
+
+🔗 https://github.com/Shooqaladwani/VYTAL-Athlete-Health-Monitoring
+
+---
+
+### 🌦️ Weather Temperature Prediction
+Machine learning project for predicting temperature using historical weather data and Linear Regression.
+
+🔗 https://github.com/Shooqaladwani/Weather-Temperature-Prediction
+
+---
+
+### 🤖 Machine Learning Salary Prediction
+Machine learning web application for salary prediction and classification using regression and classification models.
+
+🔗 https://github.com/Shooqaladwani/Machine-Learning-Salary-Prediction
+
+---
+
+### 💬 Sentiment Classification System
+Natural Language Processing project for classifying text sentiment using machine learning techniques.
+
+🔗 https://github.com/Shooqaladwani/Sentiment-Classification-System
+
+---
+
+### 📚 Library Web System
+Public library website developed using HTML, CSS, JavaScript, PHP, and MySQL.
+
+🔗 https://github.com/Shooqaladwani/Library-Web-System
+
+---
+
+### 🍽️ Restaurant Table Reservation System
+Java Swing desktop application for managing restaurant tables, reservations, and customers using MySQL.
+
+🔗 https://github.com/Shooqaladwani/Restaurant-Table-Reservation-System
+
+---
+
+### 🌐 University Campus Network Design
+Cisco Packet Tracer project for designing and configuring a multi-building university campus network.
+
+🔗 https://github.com/Shooqaladwani/University-Campus-Network-Design
+
+---
+
+### 🎨 Computer Graphics Algorithms
+C++ computer graphics project using WinBGIm, including static and dynamic graphical scenes.
+
+🔗 https://github.com/Shooqaladwani/Computer-Graphics-Algorithms
+
+---
+
+### 🎵 Mood Music App
+Music-related application project focused on matching music with mood.
+
+🔗 https://github.com/Shooqaladwani/mood-music-app
+
+---
+
+## 🏆 Professional Certificates
+
+### 📊 Power BI Data Analysis
+![Power BI Data Analysis](https://github.com/Shooqaladwani/Professional-Certificates/blob/main/Data%20Analytics/PowerBI-Data-Analysis.png)
+
+---
+
+### 👑 Leadership Certificate
+![Leadership Certificate](https://github.com/Shooqaladwani/Professional-Certificates/blob/main/Leadership/Leadership-Certificate.png)
+
+---
+
+### 🚀 Introduction to Entrepreneurship
+![Introduction to Entrepreneurship](https://github.com/Shooqaladwani/Professional-Certificates/blob/main/Entrepreneurship/Introduction-to-Entrepreneurship.png)
+
+---
+
+### 💻 JavaScript 103
+![JavaScript 103](https://github.com/Shooqaladwani/Professional-Certificates/blob/main/Tuwaiq%20Academy/JavaScript-103.png)
+
+---
+
+### 💻 JavaScript 102
+![JavaScript 102](https://github.com/Shooqaladwani/Professional-Certificates/blob/main/Tuwaiq%20Academy/JavaScript-102.png)
+
+---
+
+### 💻 JavaScript 101
+![JavaScript 101](https://github.com/Shooqaladwani/Professional-Certificates/blob/main/Tuwaiq%20Academy/JavaScript-101.png)
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/Shooqaladwani
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
