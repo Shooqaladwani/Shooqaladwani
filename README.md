@@ -4,9 +4,14 @@
 
 # Hi, I'm Shooq Aladwani 👋
 
-Computer Science graduate from Umm Al-Qura University with interests in data analytics, web development, networking, machine learning, and software development.
+Computer Science Graduate from Umm Al-Qura University. Passionate about Machine Learning, Data Analytics, Web Development, and Networking.
 
 I enjoy building practical projects, organizing technical work, and continuously improving my skills through real projects and professional training.
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shooqaladwani&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shooqaladwani&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
 ---
 
