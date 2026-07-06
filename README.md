@@ -1,137 +1,122 @@
 <p align="center">
-  <img src="images/banner.png" alt="Banner">
+  <img src="images/banner.png" alt="Shooq Aladwani Banner" width="100%">
 </p>
 
-# Hi, I'm Shooq Aladwani 👋
-
-Computer Science Graduate from Umm Al-Qura University. Passionate about Machine Learning, Data Analytics, Web Development, and Networking.
-
-I enjoy building practical projects, organizing technical work, and continuously improving my skills through real projects and professional training.
+<h1 align="center">Hi, I'm Shooq Aladwani 👋</h1>
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shooqaladwani&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shooqaladwani&layout=compact&theme=github_dark&hide_border=true"/>
+Computer Science Graduate from Umm Al-Qura University
+<br>
+Passionate about Machine Learning, Data Analytics, Networking, Web Development, and Software Development.
 </p>
 
 ---
 
-## 👩‍💻 Technical Skills
+## 👩‍💻 About Me
 
-- Power BI
-- Python
-- Java
-- C++
-- PHP
-- HTML & CSS
-- JavaScript
-- MySQL
-- Machine Learning
-- Cisco Packet Tracer
-- Git & GitHub
+- 🎓 Computer Science Graduate
+- 📊 Interested in Data Analytics & Machine Learning
+- 🌐 Interested in Networking and Web Development
+- 💻 Passionate about building practical software projects
+- 📚 Continuously learning through hands-on projects and professional training
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
-### 🩺 VYTAL – Athlete Health Monitoring
-Graduation project focused on monitoring athlete health indicators, analyzing vital signs, and supporting medical decision-making through dashboards and AI-generated reports.
-
-🔗 https://github.com/Shooqaladwani/VYTAL-Athlete-Health-Monitoring
-
----
-
-### 🌦️ Weather Temperature Prediction
-Machine learning project for predicting temperature using historical weather data and Linear Regression.
-
-🔗 https://github.com/Shooqaladwani/Weather-Temperature-Prediction
-
----
-
-### 🤖 Machine Learning Salary Prediction
-Machine learning web application for salary prediction and classification using regression and classification models.
-
-🔗 https://github.com/Shooqaladwani/Machine-Learning-Salary-Prediction
+| Project | Description |
+|---------|-------------|
+| 🏆 **VYTAL – Athlete Health Monitoring** | Graduation project for monitoring athletes' health using AI, IoT, and Power BI dashboards. |
+| 🌦️ **Weather Temperature Prediction** | Machine Learning project for weather temperature prediction using regression models. |
+| 💼 **Machine Learning Salary Prediction** | Salary prediction model using Machine Learning techniques. |
+| 😊 **Sentiment Classification System** | NLP project for sentiment analysis and text classification. |
+| 🍽️ **Restaurant Table Reservation System** | Java Swing desktop application with MySQL database. |
+| 🌐 **University Campus Network Design** | Cisco Packet Tracer network design for a university campus. |
+| 📚 **Library Web System** | Web-based library management system. |
+| 🎨 **Computer Graphics Algorithms** | C++ implementation of classic computer graphics algorithms. |
+| 🎵 **Mood Music App** | Music recommendation application based on user mood. |
 
 ---
 
-### 💬 Sentiment Classification System
-Natural Language Processing project for classifying text sentiment using machine learning techniques.
+## 🏅 Professional Certificates
 
-🔗 https://github.com/Shooqaladwani/Sentiment-Classification-System
+### 📊 Data Analytics
 
----
-
-### 📚 Library Web System
-Public library website developed using HTML, CSS, JavaScript, PHP, and MySQL.
-
-🔗 https://github.com/Shooqaladwani/Library-Web-System
+<a href="Data%20Analytics/PowerBI-Data-Analysis.pdf">
+<img src="Data%20Analytics/PowerBI-Data-Analysis.png" width="300">
+</a>
 
 ---
 
-### 🍽️ Restaurant Table Reservation System
-Java Swing desktop application for managing restaurant tables, reservations, and customers using MySQL.
+### 👑 Leadership
 
-🔗 https://github.com/Shooqaladwani/Restaurant-Table-Reservation-System
-
----
-
-### 🌐 University Campus Network Design
-Cisco Packet Tracer project for designing and configuring a multi-building university campus network.
-
-🔗 https://github.com/Shooqaladwani/University-Campus-Network-Design
+<a href="Leadership/Leadership-Certificate.pdf">
+<img src="Leadership/Leadership-Certificate.png" width="300">
+</a>
 
 ---
 
-### 🎨 Computer Graphics Algorithms
-C++ computer graphics project using WinBGIm, including static and dynamic graphical scenes.
+### 💻 Tuwaiq Academy
 
-🔗 https://github.com/Shooqaladwani/Computer-Graphics-Algorithms
+#### HTML Fundamentals
+
+<a href="Tuwaiq%20Academy/HTML-Fundamentals.pdf">
+<img src="Tuwaiq%20Academy/HTML-Fundamentals.png" width="220">
+</a>
+
+#### CSS Fundamentals
+
+<a href="Tuwaiq%20Academy/CSS-Fundamentals.pdf">
+<img src="Tuwaiq%20Academy/CSS-Fundamentals.png" width="220">
+</a>
+
+#### JavaScript 101
+
+<a href="Tuwaiq%20Academy/JavaScript-101.pdf">
+<img src="Tuwaiq%20Academy/JavaScript-101.png" width="220">
+</a>
+
+#### JavaScript 102
+
+<a href="Tuwaiq%20Academy/JavaScript-102.pdf">
+<img src="Tuwaiq%20Academy/JavaScript-102.png" width="220">
+</a>
+
+#### JavaScript 103
+
+<a href="Tuwaiq%20Academy/JavaScript-103.pdf">
+<img src="Tuwaiq%20Academy/JavaScript-103.png" width="220">
+</a>
+
+#### PHP Basics 101
+
+<a href="Tuwaiq%20Academy/PHP-Basics-101.pdf">
+<img src="Tuwaiq%20Academy/PHP-Basics-101.png" width="220">
+</a>
+
+#### PHP Functions 102
+
+<a href="Tuwaiq%20Academy/PHP-Functions-102.pdf">
+<img src="Tuwaiq%20Academy/PHP-Functions-102.png" width="220">
+</a>
 
 ---
 
-### 🎵 Mood Music App
-Music-related application project focused on matching music with mood.
+### 💡 Entrepreneurship
 
-🔗 https://github.com/Shooqaladwani/mood-music-app
-
----
-
-## 🏆 Professional Certificates
-
-### 📊 Power BI Data Analysis
-![Power BI Data Analysis](https://github.com/Shooqaladwani/Professional-Certificates/blob/main/Data%20Analytics/PowerBI-Data-Analysis.png)
+<a href="Entrepreneurship/Introduction-to-Entrepreneurship.pdf">
+<img src="Entrepreneurship/Introduction-to-Entrepreneurship.png" width="300">
+</a>
 
 ---
 
-### 👑 Leadership Certificate
-![Leadership Certificate](https://github.com/Shooqaladwani/Professional-Certificates/blob/main/Leadership/Leadership-Certificate.png)
-
----
-
-### 🚀 Introduction to Entrepreneurship
-![Introduction to Entrepreneurship](https://github.com/Shooqaladwani/Professional-Certificates/blob/main/Entrepreneurship/Introduction-to-Entrepreneurship.png)
-
----
-
-### 💻 JavaScript 103
-![JavaScript 103](https://github.com/Shooqaladwani/Professional-Certificates/blob/main/Tuwaiq%20Academy/JavaScript-103.png)
-
----
-
-### 💻 JavaScript 102
-![JavaScript 102](https://github.com/Shooqaladwani/Professional-Certificates/blob/main/Tuwaiq%20Academy/JavaScript-102.png)
-
----
-
-### 💻 JavaScript 101
-![JavaScript 101](https://github.com/Shooqaladwani/Professional-Certificates/blob/main/Tuwaiq%20Academy/JavaScript-101.png)
-
----
-
-## 📫 Connect with Me
+## 📫 Connect With Me
 
 - GitHub: https://github.com/Shooqaladwani
+- LinkedIn: *(Add your LinkedIn profile here)*
 
 ---
 
-⭐ Thanks for visiting my GitHub profile!
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
