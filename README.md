@@ -63,7 +63,7 @@ Passionate about Machine Learning, Data Analytics, Networking, Web Development, 
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Shooqaladwani
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: 
 
 ---
 
