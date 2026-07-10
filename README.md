@@ -62,7 +62,7 @@ Passionate about Machine Learning, Data Analytics, Networking, Web Development, 
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/Shooqaladwani
+- Number: 0581271977
 - LinkedIn: .
 
 ---
